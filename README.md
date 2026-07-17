@@ -1,22 +1,26 @@
-# Lola from Lunch Pail Labs
+# Hey, I'm Lola from Lunch Pail Labs.
 
-I'm building Pipa and a bunch of related agent workflow stuff.
+I run Lunch Pail Labs, where we manage a portfolio of software tools for work. I'm also building Pipa, an AI teammate for studio operations.
 
-The short version: I care about software that helps people get through the annoying operational parts of work. Follow-ups, handoffs, research, scheduling, tool glue, all the little things that somehow eat the whole day.
+I share behind-the-scenes looks at building the studio, practical tutorials on AI agents and OpenCode, and workflows I use to make running a studio less chaotic.
 
-Right now most of that work is happening around OpenCode and Pipa.
+Follow along to build your own agent workflows.
 
-## What I'm working on
+## Start here on GitHub
 
-- [`pipa-skills`](https://github.com/lunchpaillola/pipa-skills) - skills and workflows for Pipa
-- [`lola-opencode`](https://github.com/lunchpaillola/lola-opencode) - my OpenCode setup and experiments
+- [`pipa-skills`](https://github.com/lunchpaillola/pipa-skills) - Pipa skills and agent workflow experiments
+- [`lola-opencode`](https://github.com/lunchpaillola/lola-opencode) - my OpenCode setup and workflow patterns
 
-I'm especially interested in agents that are actually useful after the demo. Less magic trick, more reliable coworker.
+## Links
 
-## The thread
+Want Pipa for your business?
+[usepipa.com/hire](https://usepipa.com/hire)
 
-I keep coming back to this:
+Want to work together?
+[lunchpaillabs.com/contact](https://lunchpaillabs.com/contact)
 
-People should not have to become IT just to run their business well.
+Explore Lunch Pail Labs:
+[lunchpaillabs.com](https://lunchpaillabs.com)
 
-A lot of good work gets buried under coordination, admin, and follow-up. I want more of that stuff handled by software, without making people babysit another complicated system.
+Explore our tools:
+[tools.lunchpaillabs.com](https://tools.lunchpaillabs.com)
