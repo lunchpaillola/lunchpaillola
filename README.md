@@ -1,22 +1,22 @@
 # Lola from Lunch Pail Labs
 
-I build operational software for people who would rather do the work than become IT.
+I'm building Pipa and a bunch of related agent workflow stuff.
 
-Right now I am working on Pipa: operational skills for the agents people already use.
+The short version: I care about software that helps people get through the annoying operational parts of work. Follow-ups, handoffs, research, scheduling, tool glue, all the little things that somehow eat the whole day.
 
-## Current Workbench
+Right now most of that work is happening around OpenCode and Pipa.
 
-- **Pipa skills** - reusable agent skills for follow-up, admin, research, scheduling, and tool work
-- **OpenCode workflows** - ways to run agents as practical coworkers, not demos
-- **Small operational systems** - software that carries the boring parts of client work, coordination, and delivery
+## What I'm working on
 
-## Start Here
+- [`pipa-skills`](https://github.com/lunchpaillola/pipa-skills) - skills and workflows for Pipa
+- [`lola-opencode`](https://github.com/lunchpaillola/lola-opencode) - my OpenCode setup and experiments
 
-- [`pipa-skills`](https://github.com/lunchpaillola/pipa-skills) - public Pipa skill experiments and workflows
-- [`lola-opencode`](https://github.com/lunchpaillola/lola-opencode) - my OpenCode setup and workbench patterns
+I'm especially interested in agents that are actually useful after the demo. Less magic trick, more reliable coworker.
 
-## Working Theory
+## The thread
 
-Good tools should make skilled people more capable without making them manage more software.
+I keep coming back to this:
 
-That is the thread: less admin, clearer handoffs, better follow-through, and agents that can actually help with the work.
+People should not have to become IT just to run their business well.
+
+A lot of good work gets buried under coordination, admin, and follow-up. I want more of that stuff handled by software, without making people babysit another complicated system.
