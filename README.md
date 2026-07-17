@@ -1,10 +1,8 @@
 # Hey, I'm Lola from Lunch Pail Labs.
 
-I run Lunch Pail Labs, where we manage a portfolio of software tools for work. I'm also building Pipa, an AI teammate for studio operations.
+I run Lunch Pail Labs, where we manage a portfolio of software tools. I'm also building Pipa, an AI teammate for studio operations.
 
-I share behind-the-scenes looks at building the studio, practical tutorials on AI agents and OpenCode, and workflows I use to make running a studio less chaotic.
-
-Follow along to build your own agent workflows.
+I share behind-the-scenes looks at building the studio, practical tutorials on AI agents and OpenCode, and workflows I use to make running a studio less chaotic on [youtube](https://www.youtube.com/@lunchpaillabs).
 
 ## Start here on GitHub
 
