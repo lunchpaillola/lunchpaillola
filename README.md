@@ -10,6 +10,8 @@ I share behind-the-scenes looks at building the studio, practical tutorials on A
 - [`lola-opencode`](https://github.com/lunchpaillola/lola-opencode) - my OpenCode setup and workflow patterns
 
 ## Links
+Turn your agent into an operations teammate:
+[usepipa.com/](https://usepipa.com/)
 
 Want Pipa for your business?
 [usepipa.com/hire](https://usepipa.com/hire)
